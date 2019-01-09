@@ -1,4 +1,4 @@
-package tests_hotels;
+package tests;
 
 import driver.Driver;
 import org.junit.AfterClass;
