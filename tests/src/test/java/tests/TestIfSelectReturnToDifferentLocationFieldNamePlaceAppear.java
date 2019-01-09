@@ -1,4 +1,4 @@
-package tests_cars;
+package tests;
 
 import driver.Driver;
 import org.junit.AfterClass;
