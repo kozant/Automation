@@ -1,4 +1,4 @@
-package tests_flights;
+package tests;
 
 import driver.Driver;
 import org.junit.AfterClass;
